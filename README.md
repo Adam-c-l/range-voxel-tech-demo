@@ -10,3 +10,4 @@ When a block is placed, the system checks whether the new configuration of block
 <p align="center">
   <img src="showcase/machine_show.png" alt="machine example" />
 </p>
+rotations are now easy since you always check from the placed block
